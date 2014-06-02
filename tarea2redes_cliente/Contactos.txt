@@ -1,5 +1,2 @@
-anibal 123 6
-tomas 321 5
-jaral 456 1
-algo 456 wer
-thth gfdghf dgf
+Cliente1 192.168.0.1 7625
+Cliente2 192.168.0.10 7627
